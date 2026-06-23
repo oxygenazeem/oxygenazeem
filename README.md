@@ -19,7 +19,7 @@ I am a student at the **American School Dhahran** who has an interest in coding,
 - **Tools & Workflow:** VS Code, Git, Github, Excel/Openpyxl
 
 ## Github Stats
-![Azeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxygenazeem&show_icons=true&theme=radical)
+![Azeem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oxygenazeem&show_icons=true&theme=radical&hide_rank=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxygenazeem&layout=compact&theme=radical)
 
 ---
